@@ -37,9 +37,9 @@ We value your feedback! If you encounter any issues or have suggestions for impr
 
 Follow us on social media for updates and community discussions:
 
-- [LinkedIn]((https://www.linkedin.com/in/connect2abdulaziz))
-- [Facebook]((https://web.facebook.com/connect2abdulaziz))
-- [Instagram]((https://www.instagram.com/connect2abdulaziz/))
+- [LinkedIn](https://www.linkedin.com/in/connect2abdulaziz)
+- [Facebook](https://web.facebook.com/connect2abdulaziz)
+- [Instagram](https://www.instagram.com/connect2abdulaziz/)
 
 ## **Contributing**
 
