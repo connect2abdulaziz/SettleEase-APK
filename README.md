@@ -37,7 +37,7 @@ We value your feedback! If you encounter any issues or have suggestions for impr
 
 Follow us on social media for updates and community discussions:
 
-- [Facebook](www.facebook.com/connect2abdulaziz)
+- [Facebook](https://www.facebook.com/connect2abdulaziz)
 - [Twitter](www.twitter.com/connect2aziz)
 - [Instagram](www.instagram.com/connect2abdulaziz)
 
