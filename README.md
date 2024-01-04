@@ -37,13 +37,13 @@ We value your feedback! If you encounter any issues or have suggestions for impr
 
 Follow us on social media for updates and community discussions:
 
-- [LinkedIn]([www.twitter.com/connect2aziz](https://www.linkedin.com/in/connect2abdulaziz))
-- [Facebook]([https://www.facebook.com/connect2abdulaziz](https://web.facebook.com/connect2abdulaziz))
-- [Instagram]([www.instagram.com/connect2abdulaziz](https://www.instagram.com/connect2abdulaziz/))
+- [LinkedIn]((https://www.linkedin.com/in/connect2abdulaziz))
+- [Facebook]((https://web.facebook.com/connect2abdulaziz))
+- [Instagram]((https://www.instagram.com/connect2abdulaziz/))
 
 ## **Contributing**
 
-We welcome contributions! If you'd like to contribute to SettleEase, please check our [contribution guidelines]([github.com/connect2abdulaziz/](https://connect2abdulaziz.github.io/abdulaziz/)https://connect2abdulaziz.github.io/abdulaziz/).
+We welcome contributions! If you'd like to contribute to SettleEase, please check our [contribution guidelines](https://connect2abdulaziz.github.io/abdulaziz/).
 
 
 **Happy Settling with SettleEase!** 🌎✨
